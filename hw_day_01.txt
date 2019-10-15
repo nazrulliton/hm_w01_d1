@@ -1,0 +1,1 @@
+"Day one homework was to practice terminal instructions and save files via github"
